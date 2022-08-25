@@ -1,7 +1,6 @@
 # ComputerVision
-# Example Project Documentation Guideline
 
-# Rock_Paper_Scissors_Game
+# Rock Paper Scissors Game
 
 A game of Rock Paper Scissors in which the user plays against the computer. The program accesses the webcam and uses a Keras model to detect whether the user is showing rock, paper or scissors to the camera. 
 
